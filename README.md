@@ -8,3 +8,6 @@ List of available illustrations:
 - Frenck
   - [Illustrations](frenck/illustrations)
   - [How to use](frenck)
+- Jarvis (Contributed by [@MrHollowPS](https://github.com/MrHollowPS))
+  - [Illustrations](jarvis_female/illustrations)
+  - [How to use](jarvis_female)
