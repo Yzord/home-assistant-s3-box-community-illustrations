@@ -11,3 +11,6 @@ List of available illustrations:
 - Jarvis (Contributed by [@MrHollowPS](https://github.com/MrHollowPS))
   - [Illustrations](jarvis_female/illustrations)
   - [How to use](jarvis_female)
+  - - - Cassandra
+  - [Illustrations](cassandra/illustrations)
+  - [How to use](cassandra)
